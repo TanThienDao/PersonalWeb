@@ -5,7 +5,9 @@ h1 {
   color: Black;
 }
 p {
-  color: red;
+  color: Black;
+  font-size: 15px;
+  font-weight: 200px;
 }
 
 section img {
@@ -29,4 +31,10 @@ section img {
 
 .clear{
 	clear: both;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
 }
