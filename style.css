@@ -1,0 +1,32 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: Black;
+}
+p {
+  color: red;
+}
+
+section img {
+	border: 1px solid white;
+	height: 100px;
+	width: 100px;
+}
+
+.left-text{
+	vertical-align:middle;
+  float:left;
+}
+
+.right-picture{
+
+}
+
+.right-picture > img{
+	display: block;
+}
+
+.clear{
+	clear: both;
+}
