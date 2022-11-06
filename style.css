@@ -1,5 +1,7 @@
 body {
   background-color: powderblue;
+  height: 2000px;
+  width: 1000px;
 }
 h1 {
   color: Black;
@@ -14,6 +16,12 @@ section img {
 	border: 1px solid white;
 	height: 100px;
 	width: 100px;
+}
+.center {
+  margin: auto;
+  width: 175%;
+  border: 3px;
+  padding: 10px;
 }
 
 .left-text{
@@ -60,4 +68,8 @@ section img {
   margin-left: 1px;
   width: 300px;
   height: 17px;
+}
+.TanDaoProfile{
+  widows: 173px;
+  height: 235px;
 }
