@@ -11,6 +11,10 @@ p {
   font-size: 15px;
   font-weight: 200px;
 }
+hr{
+  background-color: red;
+  border-style: dotted;
+}
 
 section img {
 	border: 1px solid white;
