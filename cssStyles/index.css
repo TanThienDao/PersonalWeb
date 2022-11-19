@@ -67,7 +67,7 @@ use{
 .bottom-cloud{
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  top: 200px;
 }
 .label{
   text-align: center;
